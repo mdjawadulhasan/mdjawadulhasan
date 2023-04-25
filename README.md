@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualaikum 🤝, I'm Md . Jawadul Hasan</h1>
 <h3 align="center">A Tech enthusiast from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Dot net and Nest Js**
+- 🌱 I’m currently learning **Dot net and Next Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
