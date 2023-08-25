@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualaikum 🤝, I'm Md . Jawadul Hasan</h1>
-<h3 align="center">A Tech enthusiast from Bangladesh</h3>
+<h3 align="center">Associate Software Engineer @ Brain Station 23</h3>
 
-- 🌱 I’m currently learning **Dot net and Next Js**
+- 🌱 I’m currently learning **Unit Testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
