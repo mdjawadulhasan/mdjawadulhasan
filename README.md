@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualaikum 🤝, I'm Md . Jawadul Hasan</h1>
 <h3 align="center">Associate Software Engineer @ Brain Station 23</h3>
 
-- 🌱 I’m currently learning Angular and Dot Net Unit Testing 
+- 🌱 I am currently learning Angular and .NET, and I am practicing solving problems on LeetCode.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
